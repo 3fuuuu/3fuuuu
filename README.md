@@ -1,5 +1,5 @@
-## Hi there 👋
-
+## Hi there ✌️
+これからがんばるよてい
 <!--
 **3fuuuu/3fuuuu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
