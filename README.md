@@ -1,5 +1,5 @@
 ## Hi there ✌️
-これからがんばるよてい
+これからがんばる(よてい)
 <!--
 **3fuuuu/3fuuuu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
